@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate full stack web developer with a k
 | Weather-Widget  | [Weather-widget](https://weather-app-by-roshni.netlify.app) | [https://github.com/Roshnigithub5/Weather-Widget] |
 | Lottery-Game | [Lottery-Game](https://lottery-game-react-by-roshni.netlify.app) | [https://github.com/Roshnigithub5/lottery-app] |
 | Random-Fact | [Random-Fact]() | [https://github.com/Roshnigithub5/generate-random-fact] |
-| QuestBoard | [Questboard]() |  [https://github.com/Roshnigithub5/questboard]   |
+| QuestBoard | [QuestBoard]() |  [https://github.com/Roshnigithub5/questboard]   |
 | TalkSpace | [TalkSpace]() | [https://github.com/Roshnigithub5/talkspace] |
 
 
