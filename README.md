@@ -28,6 +28,10 @@ Welcome to my GitHub profile! I'm a passionate full stack web developer with a k
 | AuthBookor | [AuthBookor](https://authbookor-project-by-roshni.onrender.com/) | [https://github.com/Roshnigithub5/AuthBookor] |
 | Wanderlust | [Wanderlust](https://airbnb-project-by-roshni.onrender.com/) |  [https://github.com/Roshnigithub5/Wanderlust]   |
 | Weather-Widget  | [Weather-widget](https://weather-app-by-roshni.netlify.app) | [https://github.com/Roshnigithub5/Weather-Widget] |
+| Lottery-Game | [Lottery-Game](https://lottery-game-react-by-roshni.netlify.app) | [https://github.com/Roshnigithub5/lottery-app] |
+| Random-Fact | [Random-Fact]() | [https://github.com/Roshnigithub5/generate-random-fact] |
+| QuestBoard | [Questboard]() |  [https://github.com/Roshnigithub5/questboard]   |
+| TalkSpace | [TalkSpace]() | [https://github.com/Roshnigithub5/talkspace] |
 
 
-# Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about tech!
+## Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about tech!
