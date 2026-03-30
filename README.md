@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate full stack web developer with a knack for creating innovative projects and solving complex problems through code.
 
 ## About Me
-- 🌱 Learning: **Java and Data Structures & Algorithms (DSA)**
+- 🌱 Learning: **C++ and Data Structures & Algorithms (DSA)**
 - 💻 Proficient in: HTML, CSS, JavaScript, Bootstrap, EJS, Express, Node.js, NPM packages, MySQL, MongoDB, MongoDB Atlas, Cloudinary, React JS, Chakra UI, Redux Toolkit, Tailwind CSS
 - 🎨 Also skilled in: Graphic designing, including logo and template design
 
@@ -29,10 +29,6 @@ Welcome to my GitHub profile! I'm a passionate full stack web developer with a k
 ## Contact
 
 - 📧 Email: [roshni.gupta.212.r@gmail.com]
-
-## GitHub Stats
-
-![Roshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshnigithub5&show_icons=true&theme=radical)
 
 ## Projects
 
