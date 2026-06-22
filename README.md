@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate full stack web developer with a knack for creating innovative projects and solving complex problems through code.
 
 ## About Me
-- 🌱 Learning: **C++ and Data Structures & Algorithms (DSA)**
+- **C++ and Data Structures & Algorithms (DSA)**
 - 💻 Proficient in: HTML, CSS, JavaScript, Bootstrap, EJS, Express, Node.js, NPM packages, MySQL, MongoDB, MongoDB Atlas, Cloudinary, React JS, Chakra UI, Redux Toolkit, Tailwind CSS
 - 🎨 Also skilled in: Graphic designing, including logo and template design
 
