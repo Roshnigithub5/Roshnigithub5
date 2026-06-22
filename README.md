@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate full stack web developer with a k
 
 ## Contact
 
-- 📧 Email: [roshni.gupta.212.r@gmail.com]
+- 📧 Email: [this.is.roshni05@gmail.com]
 
 ## Projects
 
