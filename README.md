@@ -18,7 +18,7 @@ hands-on development.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" height="35" alt="SQL"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" height="45" alt="SQL"/>
 </p>
 
 ### 🌐 Web Development
@@ -70,35 +70,6 @@ GDACS · NASA EONET · Open-Meteo · OpenStreetMap · Google Maps API · REST AP
 ### 🧠 Core Skills
 
 `Data Structures & Algorithms` · `OOP` · `Problem Solving` · `Cloud Computing` · `UI/UX Design`
-
----
-
-## 🚀 Featured Projects
-
-### 🌍 TerraShift
-
-Disaster relocation decision-support platform using real-world
-disaster, weather, and location data.
-
-**React.js · TypeScript · Node.js · PostgreSQL · Kotlin**
-
----
-
-### ⚙️ Neural Twin Edge
-
-Predictive-maintenance project focused on machine health monitoring
-and failure prediction.
-
-**Python · Streamlit · Scikit-Learn · MongoDB**
-
----
-
-### 🍱 FoodBridge
-
-Location-based platform designed to connect food donors with
-people who need food.
-
-**JavaScript · Bootstrap · Google Maps API · LocalStorage**
 
 ---
 
