@@ -18,63 +18,81 @@
 
 ---
 
+## About Me
+
+I'm a **Computer Science undergraduate and software developer** interested in building practical, reliable, and data-driven software systems.
+
+My interests span **software engineering, full-stack development, cloud technologies, mobile development, and intelligent applications**.
+
+I enjoy taking a problem from:
+
 <div align="center">
 
-## `ENGINEER • SOLVE • BUILD • EVOLVE`
+`IDEA` → `DESIGN` → `DEVELOPMENT` → `TESTING` → `IMPROVEMENT`
 
 </div>
 
 <br>
 
-## 👋 Hello, I'm Roshni
-
-I'm a **Computer Science undergraduate and software developer** interested in building practical, reliable and data-driven software systems.
-
-My core focus is on:
-
-```text
-                 SOFTWARE ENGINEERING
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-       PROBLEM        DEVELOPMENT      SYSTEMS
-       SOLVING             │              │
-          │          ┌──────┴──────┐      │
-         DSA         WEB         MOBILE   CLOUD
-          │           │             │       │
-       C++ /       React /       Kotlin   AWS
-       Python      Node.js       Android  APIs
-```
+<div align="center">
 
 > **On a journey to become better than yesterday.**
 
+</div>
+
 ---
 
-# ⚡ Technical Stack
+# Technical Stack
+
+## Programming Languages
 
 <div align="center">
 
-### PROGRAMMING
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=cpp,python,c,javascript,typescript,kotlin&perline=6" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" alt="Kotlin"/>
 
 <br><br>
 
-`C++` · `Python` · `C` · `JavaScript` · `TypeScript` · `Kotlin` · `SQL` · `HTML/CSS`
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=58A6FF" alt="SQL"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+`C++` · `Python` · `C` · `JavaScript` · `TypeScript` · `Kotlin` · `SQL`
 
 </div>
 
 ---
 
+## Full-Stack Development
+
 <div align="center">
 
-### WEB ENGINEERING
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind&perline=5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="43" alt="HTML5"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="43" alt="CSS3"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="43" alt="React"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="43" alt="Node.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="43" alt="Express.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="43" alt="Bootstrap"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="43" alt="Tailwind CSS"/>
 
 <br><br>
 
@@ -84,13 +102,17 @@ My core focus is on:
 
 ---
 
+## Databases & Storage
+
 <div align="center">
 
-### DATA & STORAGE
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase&perline=4" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" alt="Firebase"/>
 
 <br><br>
 
@@ -100,133 +122,104 @@ My core focus is on:
 
 ---
 
+## Cloud, APIs & Infrastructure
+
 <div align="center">
 
-### CLOUD & INFRASTRUCTURE
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github&perline=4" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="78" alt="AWS"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
 
 <br><br>
 
-`AWS` · `Docker` · `Git` · `GitHub`
-
-</div>
-
----
-
-<div align="center">
-
-### MOBILE DEVELOPMENT
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=android,kotlin&perline=2" />
+`AWS` · `Docker` · `Git` · `GitHub` · `REST APIs`
 
 <br><br>
 
-`Android` · `Kotlin` · `Room`
+<img src="https://img.shields.io/badge/GDACS-0D1117?style=for-the-badge&color=161B22"/>
+<img src="https://img.shields.io/badge/NASA%20EONET-0D1117?style=for-the-badge&color=161B22"/>
+<img src="https://img.shields.io/badge/Open--Meteo-0D1117?style=for-the-badge&color=161B22"/>
+<img src="https://img.shields.io/badge/OpenStreetMap-0D1117?style=for-the-badge&logo=openstreetmap&logoColor=FFFFFF&color=161B22"/>
+<img src="https://img.shields.io/badge/Google%20Maps%20API-0D1117?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF&color=161B22"/>
 
 </div>
 
 ---
 
+## Mobile Development & Tools
+
 <div align="center">
 
-### DEVELOPMENT ENVIRONMENT
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker&perline=4" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" alt="Android"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" alt="Kotlin"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
 
 <br><br>
 
-`VS Code` · `Git` · `GitHub` · `Docker` · `Canva`
+`Android` · `Kotlin` · `Room` · `VS Code` · `Canva`
 
 </div>
 
 ---
 
-# ☁️ Real-World APIs & Services
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GDACS-0D1117?style=for-the-badge&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/NASA%20EONET-0D1117?style=for-the-badge&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Open--Meteo-0D1117?style=for-the-badge&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/OpenStreetMap-0D1117?style=for-the-badge&logo=openstreetmap&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Google%20Maps%20API-0D1117?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logoColor=FFFFFF"/>
-
-</div>
-
-<br>
-
-I work with **real-world APIs and external services** to build applications that consume, process and present live data rather than relying only on static datasets.
-
----
-
-# 🧠 Core Engineering
+# Core Engineering
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="180">
 
-### 🧩
+<td align="center" width="20%">
 
-**DSA**
+### DSA
 
 Algorithms &  
 Data Structures
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="20%">
 
-### 🏗️
-
-**OOP**
+### OOP
 
 Object-Oriented  
 Design
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="20%">
 
-### ⚙️
-
-**Problem Solving**
+### Problem Solving
 
 Logical &  
 Algorithmic Thinking
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="20%">
 
-### ☁️
-
-**Cloud**
+### Cloud
 
 Cloud-Based  
 Applications
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="20%">
 
-### 🎨
-
-**UI/UX**
+### UI/UX
 
 Interfaces &  
 Product Design
 
 </td>
+
 </tr>
 </table>
 
@@ -234,23 +227,85 @@ Product Design
 
 ---
 
-# 🧩 Problem Solving
+# Engineering Focus
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/350%2B-DSA%20PROBLEMS-0D1117?style=for-the-badge&labelColor=1F6FEB&color=161B22"/>
+<table>
+<tr>
 
-<br><br>
+<td align="center" width="25%">
 
-### LeetCode · Code360 · TUF
+### 🌐
 
-</div>
+**Full-Stack**
 
-I regularly practice algorithmic problem solving with emphasis on:
+Building responsive  
+web applications and  
+RESTful backends.
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Cloud & APIs**
+
+Working with cloud  
+services and real-world  
+data APIs.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📱
+
+**Mobile**
+
+Developing native  
+Android applications  
+with Kotlin.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Intelligent Systems**
+
+Exploring ML and  
+data-driven software  
+solutions.
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
+<img src="https://img.shields.io/badge/WEB-React%20%7C%20Node.js%20%7C%20Express-161B22?style=for-the-badge&labelColor=1F6FEB"/>
+<img src="https://img.shields.io/badge/CLOUD-AWS%20%7C%20REST%20%7C%20APIs-161B22?style=for-the-badge&labelColor=1F6FEB"/>
+<img src="https://img.shields.io/badge/MOBILE-Android%20%7C%20Kotlin%20%7C%20Room-161B22?style=for-the-badge&labelColor=1F6FEB"/>
+
+</div>
+
+---
+
+# Problem Solving & Engineering Approach
+
 <div align="center">
+
+<img src="https://img.shields.io/badge/350%2B-DSA%20PROBLEMS%20SOLVED-0D1117?style=for-the-badge&labelColor=1F6FEB&color=161B22"/>
+
+<br><br>
+
+**LeetCode · Code360 · TUF**
+
+<br><br>
 
 `Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues`
 
@@ -260,115 +315,91 @@ I regularly practice algorithmic problem solving with emphasis on:
 
 </div>
 
----
+<br>
 
-# 🔭 What I Like Building
-
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="250">
 
-### 🌐
+<td align="center" width="16%">
 
-**Web Applications**
+### 01
 
-Responsive interfaces  
-& full-stack systems
+**UNDERSTAND**
 
-</td>
-
-<td align="center" width="250">
-
-### ☁️
-
-**Cloud Systems**
-
-API-driven &  
-data-intensive applications
+Define the  
+problem
 
 </td>
 
-<td align="center" width="250">
+<td align="center" width="16%">
 
-### 📱
+### 02
 
-**Mobile Applications**
+**ANALYZE**
 
-Native Android  
-experiences
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🧠
-
-**Intelligent Systems**
-
-ML & data-driven  
-applications
+Break it into  
+smaller parts
 
 </td>
 
-<td align="center">
+<td align="center" width="16%">
 
-### 🗺️
+### 03
 
-**Real-World Data**
+**DESIGN**
 
-Maps, weather, disaster  
-& geographic APIs
+Choose the right  
+approach
+
+</td>
+
+<td align="center" width="16%">
+
+### 04
+
+**BUILD**
+
+Implement a  
+clean solution
 
 </td>
 
-<td align="center">
+<td align="center" width="16%">
 
-### ⚙️
+### 05
 
-**Problem Solving**
+**TEST**
 
-Algorithms, optimization  
-& computational thinking
+Validate  
+edge cases
 
 </td>
+
+<td align="center" width="16%">
+
+### 06
+
+**IMPROVE**
+
+Optimize &  
+iterate
+
+</td>
+
 </tr>
 </table>
 
-</div>
-
----
-
-# 🛠️ Engineering Mindset
+<br>
 
 <div align="center">
 
-```text
-       UNDERSTAND
-            ↓
-       BREAK DOWN
-            ↓
-        DESIGN
-            ↓
-        IMPLEMENT
-            ↓
-          TEST
-            ↓
-        ITERATE
-            ↓
-         IMPROVE
-```
+> **I learn by building, solve by thinking, and improve by iterating.**
 
 </div>
 
-I prefer **hands-on development**, learning technologies by actually building with them and continuously improving the way I approach problems.
-
 ---
 
-# 📫 Let's Connect
+# Let's Connect
 
 <div align="center">
 
