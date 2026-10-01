@@ -18,9 +18,8 @@ hands-on development.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
+  <img src="https://skillicons.dev/icons?i=sql" width="45" height="45" alt="SQL"/>
 </p>
-
-**SQL**
 
 ### 🌐 Web Development
 
