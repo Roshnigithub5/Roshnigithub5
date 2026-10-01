@@ -1,47 +1,181 @@
-# Hi there! 👋 I'm Roshni Gupta
+# Hi, I'm Roshni Gupta 👋
 
-Welcome to my GitHub profile! I'm a passionate full stack web developer with a knack for creating innovative projects and solving complex problems through code.
+### Computer Science Undergraduate | Software Developer | DSA | Full-Stack & Cloud
 
-## About Me
-- **C++ and Data Structures & Algorithms (DSA)**
-- 💻 Proficient in: HTML, CSS, JavaScript, Bootstrap, EJS, Express, Node.js, NPM packages, MySQL, MongoDB, MongoDB Atlas, Cloudinary, React JS, Chakra UI, Redux Toolkit, Tailwind CSS
-- 🎨 Also skilled in: Graphic designing, including logo and template design
+I'm a Computer Science undergraduate focused on building practical software
+solutions and solving problems using Data Structures & Algorithms.
 
-## Languages and Tools
+I enjoy developing full-stack, cloud-based, data-driven, and mobile
+applications while continuously improving my problem-solving and software
+engineering skills.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-</p>
+---
 
-## Contact
+## 🚀 What I'm Currently Focused On
 
-- 📧 Email: [this.is.roshni05@gmail.com]
+- 💻 Software Development & Full-Stack Engineering
+- 🧩 Data Structures & Algorithms in C++
+- ☁️ Cloud Computing & REST APIs
+- 📱 Web & Mobile Application Development
+- 🛠️ Building practical, real-world software projects
 
-## Projects
+---
 
-| Project Name | Link | Repository |
-|--------------|-------------|-------------------|
-| InkStellar | [InkStellar](https://inkstellar.netlify.app) | [https://github.com/Roshnigithub5/InkStellar] |
-| AuthBookor | [AuthBookor](https://authbookor-project-by-roshni.onrender.com/) | [https://github.com/Roshnigithub5/AuthBookor] |
-| Wanderlust | [Wanderlust](https://airbnb-project-by-roshni.onrender.com/) |  [https://github.com/Roshnigithub5/Wanderlust]   |
-| Weather-Widget  | [Weather-widget](https://weather-app-by-roshni.netlify.app) | [https://github.com/Roshnigithub5/Weather-Widget] |
-| Lottery-Game | [Lottery-Game](https://lottery-game-react-by-roshni.netlify.app) | [https://github.com/Roshnigithub5/lottery-app] |
-| Random-Fact | [Random-Fact]() | [https://github.com/Roshnigithub5/generate-random-fact] |
-| QuestBoard | [QuestBoard]() |  [https://github.com/Roshnigithub5/questboard]   |
-| TalkSpace | [TalkSpace]() | [https://github.com/Roshnigithub5/talkspace] |
+## 🛠️ Technical Skills
 
+### Languages
+C++ · Python · JavaScript · TypeScript · Kotlin · SQL · C · HTML/CSS
 
-## Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about tech!
+### Frontend
+React.js · Bootstrap · Tailwind CSS
+
+### Backend
+Node.js · Express.js · REST APIs
+
+### Databases
+PostgreSQL · MySQL · MongoDB · Firebase · Room
+
+### Cloud & APIs
+AWS · GDACS · NASA EONET · Open-Meteo · OpenStreetMap
+
+### Developer Tools
+Git · GitHub · Docker · VS Code · Canva
+
+### Core Skills
+Data Structures & Algorithms · OOP · Problem Solving · Cloud Computing · UI/UX Design
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 TerraShift — Disaster Relocation Decision Support System
+
+A cloud-based disaster decision-support platform designed to analyze
+disaster, weather, geographic, and facility data and generate
+data-driven relocation options.
+
+**Tech Stack:** React.js · TypeScript · Node.js · Express.js · Kotlin · PostgreSQL
+
+**Key Highlights**
+- Integrated GDACS, NASA EONET, Open-Meteo, and OpenStreetMap
+- Built a risk assessment and relocation recommendation engine
+- Developed a native Android application with location-based alerts
+- Implemented interactive maps and cloud synchronization
+- Added Room-based offline caching for access to recently synced data
+
+---
+
+### ⚙️ Neural Twin Edge — Predictive Maintenance Platform
+
+An Edge AI predictive-maintenance platform using machine learning and
+digital twin technology to monitor equipment health and predict failures.
+
+**Tech Stack:** Python · Streamlit · Scikit-Learn · MongoDB Atlas
+
+**Key Highlights**
+- Monitored 3+ machine parameters
+- Built equipment health scoring and failure prediction
+- Developed a dashboard for predictions and historical analytics
+- Applied machine learning for predictive maintenance
+
+---
+
+### 🍱 FoodBridge — Food Redistribution Platform
+
+A location-based food redistribution platform connecting food donors
+with recipients through location-aware discovery and matching.
+
+**Tech Stack:** JavaScript · HTML · CSS · Bootstrap · Google Maps API · LocalStorage
+
+**Key Highlights**
+- Built 4+ integrated modules
+- Developed 10+ responsive UI components
+- Integrated Google Maps API for location-based food discovery
+- Built an admin moderation system for donation requests and user records
+- Implemented impact tracking and LocalStorage-based data management
+
+---
+
+### 🧠 Heart Disease Prediction using QSVM
+
+A machine-learning project exploring Quantum Support Vector Machines
+for heart disease prediction.
+
+**Tech Stack:** Python · Qiskit · Scikit-Learn · Matplotlib
+
+**Key Highlights**
+- Worked with 300+ patient records
+- Reduced 13 features to 4 components using PCA
+- Compared QSVM performance with classical SVM
+- Created visualizations including confusion matrices and kernel heatmaps
+
+---
+
+## 🧩 Data Structures & Algorithms
+
+### 350+ Problems Solved
+
+I regularly practice Data Structures & Algorithms across:
+
+- LeetCode
+- Code360
+- TUF
+
+### Topics
+
+`Arrays` · `Strings` · `Linked Lists` · `Stack` · `Queue` · `Binary Search`
+
+`Trees` · `BST` · `Heap` · `Graphs` · `Greedy` · `Dynamic Programming`
+
+My focus is on developing strong problem-solving skills and understanding
+efficient, scalable solutions.
+
+---
+
+## 💼 Experience
+
+### OSEN — Design Lead & Core Team Member
+
+**Nov 2025 – Present**
+
+- Planned and delivered 5+ national-level hackathons and technical events
+- Led branding and creative operations for digital and physical event assets
+- Collaborated with cross-functional teams on event campaigns and execution
+- Contributed to participant engagement and time-sensitive event deliverables
+
+---
+
+## 🎓 Education
+
+### Bachelor of Technology — Computer Science & Technology
+
+**GL Bajaj Group of Institutions, Mathura**
+
+**2024 – 2028**
+
+**Current SGPA:** 7.82
+
+---
+
+## 📚 Training
+
+### Advanced Data Structures & Algorithms
+
+**Coding Ninjas · Sep 2025 – Jan 2026**
+
+---
+
+## 🎯 My Development Journey
+
+```text
+DSA & Problem Solving
+        ↓
+Software Development
+        ↓
+Full-Stack Engineering
+        ↓
+Cloud & API Integration
+        ↓
+Real-World Projects
+        ↓
+Continuous Learning
